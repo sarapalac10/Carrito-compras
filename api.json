@@ -1,0 +1,38 @@
+[
+    {
+      "precio": 58500,
+      "id": 1,
+      "title": "El Resplandor - Stephen King",
+      "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/I/71n+A1YIKbL.jpg"
+    },
+    {
+      "precio": 45000,
+      "id": 2,
+      "title": "Qué hacer con estos pedazos - Piedad Bonnet",
+      "thumbnailUrl": "https://images.cdn3.buscalibre.com/fit-in/360x360/76/f9/76f913cbbd3c6d4800ca233afaacb47b.jpg"
+    },
+    {
+      "precio": 62000,
+      "id": 3,
+      "title": "EL RUIDO DE LAS COSAS AL CAER - Juan Gabriel Vásquez",
+      "thumbnailUrl": "https://images.cdn2.buscalibre.com/fit-in/360x360/9e/50/9e50e1d7eae70fd68a0a0a79ad17cda7.jpg"
+    },
+    {
+      "precio": 86759,
+      "id": 4,
+      "title": "La Noche de la Usina - Eduardo Sacheri",
+      "thumbnailUrl": "https://images.cdn3.buscalibre.com/fit-in/360x360/f1/27/f127d6c5e0f206f70f014a70d4e0539d.jpg"
+    },
+    {
+      "precio": 102096,
+      "id": 5,
+      "title": "Salvar El Fuego - Guillermo Arriaga",
+      "thumbnailUrl": "https://images.cdn1.buscalibre.com/fit-in/360x360/3c/0e/3c0e19d319086d5e7ebbf4904628e79e.jpg"
+    },
+    {
+      "precio": 105407,
+      "id": 6,
+      "title": "Caín - José Saramago",
+      "thumbnailUrl": "https://images.cdn1.buscalibre.com/fit-in/360x360/97/4f/974f4985aa4560186f587fc4d773f544.jpg"
+    }
+  ]
